@@ -1,4 +1,4 @@
-|[logo](https://github.com/Papputechno/papputechno/blob/main/Screenshot%202023-08-10%20225633.png)
+![logo](https://github.com/Papputechno/papputechno/blob/main/Screenshot%202023-08-10%20225633.png)
 <h1 align="center">Hi 👋, I'm papputechno</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
