@@ -59,6 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&" alt="pappukumar35" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappukumar35" alt="pappukumar35" /></a> </p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"></p>
 
 
 <h3 align="left">Support:</h3>
