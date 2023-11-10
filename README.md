@@ -7,6 +7,9 @@
 
 
 
+
+
+<img  align="right" alt="coding" width="600" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
 <img  align="right" alt="coding" width="600" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
 
 
@@ -15,11 +18,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappukumar35&label=Profile%20views&color=0e75b6&style=flat" alt="pappukumar35" /> </p>
 
-
+<p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar35?logo=github&style=for-the-badge" alt="pappukumar35" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar?logo=linkedin&style=for-the-badge" alt="pappu kumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukr8862?logo=twitter&style=for-the-badge" alt="pappukr8862" /></a> </p>
 
-- 🔭 I’m currently Studying (IT)Information Technology [pappuweb.netlify.app](https://pappuweb.netlify.app/)
+- 🔭 I’m currently Studying (IT)Information Technology [https://pappu.tech/)
+- 👨‍💻 All of my projects are available at [https://webpk.netlify.app)
 
 - 👯 I’m looking to collaborate on [livedayclock.netlify.app](https://livedayclock.netlify.app/)
 
