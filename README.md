@@ -9,7 +9,7 @@
 
 
 
-<img  align="right" alt="coding" width="600" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
+<img  align="right" alt="coding" width="500" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
 
 
 
