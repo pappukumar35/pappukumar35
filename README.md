@@ -20,6 +20,8 @@
 
 <p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar35?logo=github&style=for-the-badge" alt="pappukumar35" /></a> </p>
 <p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar?logo=linkedin&style=for-the-badge" alt="pappu kumar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar35?logo=leetcode&style=for-the-badge" alt="pappukumar35" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukumar35?logo=geeksforgeeks&style=for-the-badge" alt="pappukumar35" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pappukr8862" target="blank"><img src="https://img.shields.io/twitter/follow/pappukr8862?logo=twitter&style=for-the-badge" alt="pappukr8862" /></a> </p>
 
