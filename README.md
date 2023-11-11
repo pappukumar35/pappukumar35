@@ -10,7 +10,7 @@
 
 
 <img  align="right" alt="coding" width="600" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
-<img  align="right" alt="coding" width="600" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
+
 
 
 
@@ -18,38 +18,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappukumar35&label=Profile%20views&color=0e75b6&style=flat" alt="pappukumar35" /> </p>
 
-<p align="left">
-    <a href="https://github.com/pappukumar35" target="_blank">
-      <img src="https://img.shields.io/github/followers/pappukumar35?label=Follow&style=social" alt="GitHub Follow Button" />
-    </a>
-  </p>
+<p align="left"><a href="https://github.com/pappukumar35" target="_blan"><img src="https://img.shields.io/github/followers/pappukumar35?label=Follow&style=social" alt="GitHub Follow Button" /></a></p>
   
   
-  <p align="left">
-    <a href="https://www.linkedin.com/in/pappu-kumar-961529265/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Follow Button" />
-    </a>
-  </p>
+  <p align="left"><a href="https://www.linkedin.com/in/pappu-kumar-961529265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge" alt="LinkedInFollow Button" /></a></p>
   
-  <p align="left">
-    <a href="https://leetcode.com/pappukumar35" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-Follow%20Me-brightgreen?logo=leetcode&style=for-the-badge" alt="LeetCode Follow Button" />
-    </a>
-  </p>
+  <p align="left"><a href="https://leetcode.com/pappukumar35" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Follow%20Me-brightgreen?logo=leetcode&style=for-the-badge" alt="LeetCode Follow
+                                                                                  Button" /></a></p>
   
   
-  <p align="left">
-    <a href="https://auth.geeksforgeeks.org/user/pappukumar35" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-Follow%20Me-brightgreen?logo=geeksforgeeks&style=for-the-badge" alt="pappukumar35 Follow Button" />
-    </a>
-  </p>
+  <p align="left"><a href="https://auth.geeksforgeeks.org/user/pappukumar35" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Follow%20Me-brightgreen?logo=geeksforgeeks&style=for-the-badge" alt="pappukumar35 Follow Button" /></a></p>
   
 
-  <p align="left">
-    <a href="https://twitter.com/pappukr8862" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" />
-    </a>
-  </p>
+  <p align="left"><a href="https://twitter.com/pappukr8862" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a></p>
 
 
 - 🔭 I’m currently Studying (IT)Information Technology [https://pappu.tech/)
