@@ -89,6 +89,10 @@
         <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_fBMPPkaAbp1t_znABIp_uG" target="_blank"> <img src="https://cdn.qwiklabs.com/G1gcGbhQ5mTRSUJ6U96zA6iSchsDJ9rySpeV2BPd9ZI%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
         <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_ceJxGqRBxU0HyRLJN411fG" target="_blank"> <img src="https://cdn.qwiklabs.com/6IXSilpzlSJWqXybTzdtyiHis6xnX4ppW4o9oSvuuH4%3D" width="20%" height="20%" border="10" hspace="20"/>
 
+        
+  <hr>      
+ <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_dpu3HPprXhD4Sb-i63Au3z" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+        <a href="https://www.youtube.com/@CloudHustlers/playlists?view=50&sort=dd&shelf_id=3" target="_blank"> <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="50"/> </a></hr>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pappukumar35"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pappukumar35" /></a><a href="https://ko-fi.com/pappukumar35"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pappukumar35" /></a></p><br><br>
