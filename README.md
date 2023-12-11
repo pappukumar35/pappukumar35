@@ -80,21 +80,17 @@
 <p> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"></p>
 
  <h1 font-weight="bold" align="center" >ARCADE OCT SOLUTION</h1>
- 
-<a href="https://youtube.com/playlist?list=PLYR3XuAuu4_creCsL2klQLwVpZ7CMjzZW" target="_blank"> <img src="https://cdn.qwiklabs.com/EcBuiiZFWEGA%2BmdBkqoe8hd1%2FB91vL28R9PF2nFJGgM%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
-        <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_cx4lKELCmJm573vVAtFRKC" target="_blank"> <img src="https://cdn.qwiklabs.com/4C97%2FEIZM85hrm8cm28KhDfIPKluWXfD%2Bqkc5YT9UII%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
-        <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_dpu3HPprXhD4Sb-i63Au3z" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
-      <br>
-        <a href="https://www.youtube.com/playlist?list=PLYR3XuAuu4_elaXCaGfj090UcqE1sTfND" target="_blank"> <img src="https://cdn.qwiklabs.com/bFwLOQ642SPE%2BsitAlzjR4tcGv9mypzSoT%2B%2B%2BWzWR80%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
-        <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_cmKILNOBA2FBiwC5YJeWLP" target="_blank"> <img src="https://cdn.qwiklabs.com/oNAUrkVkiW3KZyYRbaWSLy8HpaFUPVdvaM1nywZt9es%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
-        <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_fBMPPkaAbp1t_znABIp_uG" target="_blank"> <img src="https://cdn.qwiklabs.com/G1gcGbhQ5mTRSUJ6U96zA6iSchsDJ9rySpeV2BPd9ZI%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
-        <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_ceJxGqRBxU0HyRLJN411fG" target="_blank"> <img src="https://cdn.qwiklabs.com/6IXSilpzlSJWqXybTzdtyiHis6xnX4ppW4o9oSvuuH4%3D" width="20%" height="20%" border="10" hspace="20"/>
-
-        
-       
- <a href="https://youtube.com/playlist?list=PLYR3XuAuu4_dpu3HPprXhD4Sb-i63Au3z" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
-        <a href="https://www.youtube.com/@CloudHustlers/playlists?view=50&sort=dd&shelf_id=3" target="_blank"> <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="50"/> </a>
-
+    <a href="https://googlecloudarcade.com/playlist1" target="_blank"> <img src="https://cdn.qwiklabs.com/EcBuiiZFWEGA%2BmdBkqoe8hd1%2FB91vL28R9PF2nFJGgM%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
+<a href="https://googlecloudarcade.com/playlist2" target="_blank"> <img src="https://cdn.qwiklabs.com/4C97%2FEIZM85hrm8cm28KhDfIPKluWXfD%2Bqkc5YT9UII%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
+<a href="https://googlecloudarcade.com/playlist3" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="10"/> </a>
+<br>
+<a href="https://googlecloudarcade.com/playlist4" target="_blank"> <img src="https://cdn.qwiklabs.com/bFwLOQ642SPE%2BsitAlzjR4tcGv9mypzSoT%2B%2B%2BWzWR80%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+<a href="https://googlecloudarcade.com/playlist5" target="_blank"> <img src="https://cdn.qwiklabs.com/oNAUrkVkiW3KZyYRbaWSLy8HpaFUPVdvaM1nywZt9es%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+<a href="https://googlecloudarcade.com/playlist6" target="_blank"> <img src="https://cdn.qwiklabs.com/G1gcGbhQ5mTRSUJ6U96zA6iSchsDJ9rySpeV2BPd9ZI%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+<a href="https://googlecloudarcade.com/playlist7" target="_blank"> <img src="https://cdn.qwiklabs.com/6IXSilpzlSJWqXybTzdtyiHis6xnX4ppW4o9oSvuuH4%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+<h1 align="center"><b>STUDY JAM SOLUTION</b></h1>
+<a href="https://googlecloudarcade.com/playlist7" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+<a href="https://googlecloudarcade.com/playlist7" target="_blank"> <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="50"/> </a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pappukumar35"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pappukumar35" /></a><a href="https://ko-fi.com/pappukumar35"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pappukumar35" /></a></p><br><br>
 
