@@ -29,6 +29,11 @@
   
   
   <p align="left"><a href="https://auth.geeksforgeeks.org/user/pappukumar35" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Follow%20Me-brightgreen?logo=geeksforgeeks&style=for-the-badge" alt="pappukumar35 Follow Button" /></a></p>
+  <p align="left">
+    <a href="https://youtube.com/@TPG_VLOGS?si=yamHGtJwBtf0Tnqa" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe to TPG_VLOGS" />
+    </a>
+  </p>
   
 
   <p align="left"><a href="https://twitter.com/pappukr8862" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a></p>
