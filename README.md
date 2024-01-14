@@ -96,11 +96,11 @@
 <a href="https://youtube.com/@TPG_VLOGS?si=pk33anqO7Y05YK3j" target="_blank"> <img src="https://cdn.qwiklabs.com/6IXSilpzlSJWqXybTzdtyiHis6xnX4ppW4o9oSvuuH4%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
 
 <h1 align="center"><b>STUDY JAM SOLUTION</b></h1>
-<a href="https://youtube.com/@TPG_VLOGS?si=pk33anqO7Y05YK3j" target="_blank">
+<a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank">
     <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/>
 </a>
 
-<a href="https://youtube.com/@TPG_VLOGS?si=pk33anqO7Y05YK3j" target="_blank">
+<a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank">
     <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="20"/>
 </a>
  
