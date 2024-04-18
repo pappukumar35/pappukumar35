@@ -92,10 +92,10 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pappukumar35&theme=dark" width="32.5%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pappukumar35&theme=dark" width="32.5%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pappukumar35&theme=dark" width="32.5%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pappukumar35&theme=dark" width="100%" height="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pappukumar35&theme=dark" width="100%" height="50%"></a>
       
     
-      </a>
+      
   </div>
   
 
