@@ -102,13 +102,13 @@
 
       
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukumar35&show_icons=true&locale=en&layout=compact" alt="pappukumar35" />
 
-  <div style="background-color: white; padding: 20px; text-align: center;">
-    <h3>Contribution Graph</h3>
-    <a href="https://github.com/pappukumar35/github-readme-activity-graph" target="_blank">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar35&theme=github" alt="pappukumar35's github activity graph" style="max: width 80%;">
-    </a>
-</div>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappukumar35&show_icons=true&locale=en" alt="pappukumar35" /></p>
+ 
+ 
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&" alt="pappukumar35" /></p>
 
 
 
