@@ -82,6 +82,85 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&" alt="pappukumar35" /></p>
 
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
+  </h1>
+  <div align="center" >
+      <a  href="https://github.com/pappukumar35">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pappukumar35&theme=dark" width="32.5%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pappukumar35&theme=dark" width="32.5%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pappukumar35&theme=dark" width="32.5%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pappukumar35&theme=dark" width="100%" height="50%">
+      
+    
+      </a>
+  </div>
+  <hr>
+
+      
+
+
+  <div style="background-color: white; padding: 20px; text-align: center;">
+    <h3>Contribution Graph</h3>
+    <a href="https://github.com/pappukumar35/github-readme-activity-graph" target="_blank">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar35&theme=github" alt="pappukumar35's github activity graph" style="max: width 80%;">
+    </a>
+</div>
+
+
+
+    <hr>
+
+ 🛡️ LeetCode Badges 
+   <p align="">
+    <a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI//" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
+</a>
+
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="hacktoberfest-docker"/>
+</a>
+<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="hacktoberfest-docker"/>
+</a>
+
+   </p>
+   
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappukumar35" alt="pappukumar35" /></a> </p>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"></p>
 
