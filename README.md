@@ -103,13 +103,12 @@
   </div>
 
 
-  <div style="background-color: white; padding: 20px; text-align: center;">
+<div style="background-color: white; padding: 20px; text-align: center;">
     <h3>Contribution Graph</h3>
-    <a href="https://github.com/pappukumar35/github-readme-activity-graph" target="_blank">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar35&theme=github" alt="pappukumar35's github activity graph" style="max: width 80%;">
+    <a href="https://github.com/pappukumar35" target="_blank">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar35&theme=github" alt="pappukumar35's github activity graph" style="max-width: 80%;">
     </a>
 </div>
-
   
 
       
