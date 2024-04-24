@@ -53,7 +53,7 @@
 
 - 📫 How to reach me **9262882257.pk@gmail.com**
 
-- ⚡ Fun fact **I am funny 😘😘😘**
+- ⚡ Fun fact **I am funny 😘😘😘✌️✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
