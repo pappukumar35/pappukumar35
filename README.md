@@ -75,11 +75,7 @@
 
 
 <div style="background-color: black; padding: 20px;">
-<!--     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukumar35&show_icons=true&locale=en&layout=compact" alt="pappukumar35" /></p>
- -->
-  ⚙️ &nbsp;GitHub Analytics
-
-                                      <div>
+ <div>
           <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukumar35&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukumar35" width="380" /></p>
           
           <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pappukumar35&show_icons=true&locale=en&theme=tokyonight" alt="pappukumar35" width="380" /></p>
