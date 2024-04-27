@@ -79,11 +79,13 @@
  -->
   ⚙️ &nbsp;GitHub Analytics
 
-                                        <div >
-                                       <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukrs&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukrs" width="380" /></p>
-                                       
-                                       <p><img align="left+1"  src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&locale=en&theme=tokyonight" alt="pappu" width="380" /></p>
-                                       </div>
+                                      <div>
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukumar35&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukumar35" width="380" /></p>
+          
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pappukumar35&show_icons=true&locale=en&theme=tokyonight" alt="pappukumar35" width="380" /></p>
+          
+          
+      </div>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&" alt="pappukumar35" /></p>
 
