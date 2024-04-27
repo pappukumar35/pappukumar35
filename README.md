@@ -118,49 +118,32 @@
 
 
     
-
- 🛡️ LeetCode Badges 
-   <p align="">
-    <a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="blank">
-    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI//" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
-</a>
-
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="hacktoberfest-docker"/>
-</a>
-<a href="https://youtube.com/@TPG_coder?si=0d_Pfxq24XhjcKhI" target="_blank">
-  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="hacktoberfest-docker"/>
-</a>
-
+🛡️ LeetCode Badges 
+ <a id="readme-top"></a>
+ <!-- PROJECT LOGO -->
+ <br />
+ <div align="center">
+   <a href="https://github.com/pappukumar35/Leetcode-Badge-Showcase">
+     <img src="images/guardian.png" alt="Logo" width="80" height="80">
+   </a>
+ 
+   <h3 align="center">LeetCode Badge Showcase</h3>
+ 
+   <p align="center">
+     Showcase your LeetCode badges on your Github README page 🤩
+     <br />
+     <a href="https://leetcode-badge-showcase.vercel.app/">✨ View Demo</a>
+     ·
+     <a href="https://github.com/pappukumar35/Leetcode-Badge-Showcase/issues">🐛 Report Bug</a>
+     ·
+     <a href="https://github.com/pappukumar35/Leetcode-Badge-Showcase/issues">💁🏽 Request Feature</a>
    </p>
+ </div>
+ 
+ <div align="center">
+ <img src="https://leetcode-badge-showcase.vercel.app/api?username=pappukumar35" />
+ </div>
+   
    
 
 
