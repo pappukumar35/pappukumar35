@@ -40,7 +40,7 @@
   <p align="left"><a href="https://twitter.com/pappukr8862" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a></p>
 
 
-- 🔭 I’m currently Studying (IT)Information Technology [https://pappu.tech/)
+- 🔭 I’m currently Studying (IT)Information Technology [https://pappu.tech/](https://pappukumar35.github.io/website/)
 - 👨‍💻 All of my projects are available at [https://webpk.netlify.app)
 
 - 👯 I’m looking to collaborate on [livedayclock.netlify.app](https://livedayclock.netlify.app/)
