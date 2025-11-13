@@ -9,9 +9,7 @@
 
 
 
-<img  align="right" alt="coding" width="350" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/>
-
-
+<img  align="right" alt="coding" width="350" src="https://github.com/pappukumar35/pappukumar35/assets/119037956/7c364118-19ef-4061-963f-d7fbe4635c2f"/
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappukumar35&label=Profile%20views&color=0e75b6&style=flat" alt="pappukumar35" /> </p>
