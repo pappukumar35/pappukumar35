@@ -93,6 +93,7 @@
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukumar35&show_icons=true&layout=compact&theme=radical" width="380" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pappukumar35&show_icons=true&locale=en&theme=tokyonight" alt="pappukumar35" width="380" /></p> <div/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&theme=radical" /></p>
 
 ---
@@ -138,6 +139,13 @@
 
 ---
 
+----------
+
+<h1 font-weight="bold" align="center" >ARCADE OCT SOLUTION</h1> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img 
+                                                                                                                                                ---------src="https://cdn.qwiklabs.com/EcBuiiZFWEGA%2BmdBkqoe8hd1%2FB91vL28R9PF2nFJGgM%3D" width="20%" height="20%" border="10" hspace="10"/> </a> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/4C97%2FEIZM85hrm8cm28KhDfIPKluWXfD%2Bqkc5YT9UII%3D" width="20%" height="20%" border="10" hspace="10"/> </a> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="10"/> </a> <br> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/bFwLOQ642SPE%2BsitAlzjR4tcGv9mypzSoT%2B%2B%2BWzWR80%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/oNAUrkVkiW3KZyYRbaWSLy8HpaFUPVdvaM1nywZt9es%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/G1gcGbhQ5mTRSUJ6U96zA6iSchsDJ9rySpeV2BPd9ZI%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <a href="https://youtube.com/@TPG_coder?si=czuRZkpybTff0M53" target="_blank"> <img src="https://cdn.qwiklabs.com/6IXSilpzlSJWqXybTzdtyiHis6xnX4ppW4o9oSvuuH4%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <h1 align="center"><b>STUDY JAM SOLUTION</b></h1> <a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank"> <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <h1 align="center"><b>STUDY JAM SOLUTION</b></h1> <a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank"> <img src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="20%" height="20%" border="10" hspace="20"/> </a> <a href="https://youtube.com/@TPG_coder?si=FJVoUmGhLU8ZK4K9" target="_blank"> <img src="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+
+-------
+
 ### ☕ Support Me
 
 <p>
@@ -148,3 +156,12 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
+
+
+
+
+
+
+
+
+
