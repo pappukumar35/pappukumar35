@@ -88,7 +88,7 @@
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
 </p>
 
----
+--
 
 ### 📊 GitHub Stats
 
