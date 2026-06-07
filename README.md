@@ -121,7 +121,7 @@
   </a>
 </div>
 
----...
+---
 
 ### 🏅 LeetCode Badges
 
