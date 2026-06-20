@@ -96,7 +96,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pappukumar35&show_icons=true&locale=en&theme=tokyonight" alt="pappukumar35" width="380" /></p> <div/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappukumar35&theme=radical" /></p>
 
---
+-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!" />
