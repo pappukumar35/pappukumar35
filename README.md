@@ -45,8 +45,7 @@
   </a>
 </p>
 
----
-
+--
 ### 🌱 About Me
 
 - 🔭 I’m currently studying **Information Technology (IT)**  
