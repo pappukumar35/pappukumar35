@@ -54,7 +54,7 @@ ko![my coffee](https://github.com/pappukumar35/pappukumar35/assets/119037956/b18
 - 🤝 I’m looking for help with [PappuGame](https://pappugame.netlify.app/)
 - 💬 Ask me about **Java Development**
 - 📫 How to reach me: **9262882257.pk@gmail.com**
-- ⚡ Fun fact: **I am funny 😘✌️**
+- ⚡ Fun fact: **I am funny 😘✌️**..
 
 
 
